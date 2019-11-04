@@ -1,4 +1,8 @@
 # turtle_app
+turtle walking on 5x5 table (hardcoded)
 
-gem install minitest
-ruby -r minitest/pride turtle_test.rb
+### if you wanna check tests:
+
+-> `gem install minitest`
+
+-> `ruby -r minitest/pride turtle_test.rb`
